@@ -1,0 +1,496 @@
+VIN,Make,Model Year,Same Vehicle ID,Mileage,Driver / Operator Type,Roadway Type,Road Surface,Posted Speed Limit (MPH),Lighting_merged,Weather Condition,DRIVE MODE - Autonomous Mode,Potential Fault Condition,Location,longitude,latitude
+5G21A6P03N4,Cruise,2022.0,86ea5dc268d8537,9482.0,Remote (Commercial / Test),Highway,Dry,70.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Chicago,-87.69575115384616,41.85517653846154
+5G21A6P0XP4,Cruise,2023.0,4d8656e492fae29,2293.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,Seattle,-122.32918373778227,47.615825763397375
+5G21A6P04P4,Cruise,2023.0,bea6c77e2f53859,965.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Brake Fault,Pacific Grove,-121.915994,36.623204
+5G21A6P09P4,Cruise,2023.0,f7acc9b8893549e,2109.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.43308161217104,37.77190870006579
+5G21A6P03L4,Cruise,2020.0,32757d7928fd658,55445.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,45.0,Daylight,CLEAR,1,Lean Mixture,Clark County,-115.17714783669142,36.11087843761046
+5G21A6P03N4,Cruise,2022.0,86ea5dc268d8537,9482.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Suspension System Failures,San Mateo County,-122.14180702380952,37.46629970238095
+5G21A6P0XP4,Cruise,2023.0,4d8656e492fae29,2293.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,San Francisco,-122.45156190476187,37.76542809523809
+5G21A6P04P4,Cruise,2023.0,bea6c77e2f53859,965.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Suspension System Failures,San Mateo County,-122.18196875,37.4494015
+5G21A6P09P4,Cruise,2023.0,f7acc9b8893549e,2109.0,Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,Santa Cruz County,-121.9748004054054,36.95820986486486
+5G21A6P04N4,Cruise,2022.0,10949bf40e461ed,19560.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,55.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Mateo County,-122.26478823529412,37.509771176470586
+5G21A6P04N4,Cruise,2022.0,10949bf40e461ed,19560.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,30.0,Dark - Lighted,CLEAR,1,Electrical Faults,Clark County,-115.2142717,36.098710350000005
+5G21A6P02P4,Cruise,2023.0,2f2e0e1e0d6ee91,7361.0,Remote (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,1,Brake Fault,Pacific Grove,-121.927165,36.603535
+5G21A6P02P4,Cruise,2023.0,2f2e0e1e0d6ee91,7361.0,Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,1,Software Bugs,Asheville,-82.55510828516377,35.60007495183044
+SADHW2S11M1,Jaguar,2021.0,2d76a0324d178ec,44861.0,,Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,San Francisco,-122.41474933333332,37.75835466666667
+SADHW2S13M1,Jaguar,2021.0,fa0f9ad09fc1094,36194.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Software Bugs,Seattle,-122.31836125,47.55028625
+SADHW2S13M1,Jaguar,2021.0,fa0f9ad09fc1094,36194.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Suspension System Failures,Seattle,-122.38095697368422,47.550513157894734
+2T2JGMDA0LC,Lexus,2020.0,cb6e38b363be262,28420.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Sensor and Perception Failure,New York City,-73.97466072108367,40.76520921952673
+5NMS5DAL7PH,Hyundai,2023.0,d57542136543b5c,,In-Vehicle (Commercial / Test),Highway,Dry,50.0,Daylight,CLEAR,0,Cooling System Damage,New York City,-73.95062474857713,40.6894365534237
+5TDDCRFH7GS,Toyota,2016.0,08a1b2756b024f9,61479.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.17035525252524,36.05931878787879
+5TDDCRFH4GS,Toyota,2016.0,31b1818df0c9fce,91466.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Chicago,-87.68898731336405,41.91223726743471
+5G21A6P03N4,Cruise,2022.0,8aae92901672e74,4743.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,Chicago,-87.64128314183124,41.90927548922801
+5G21A6P09P4,Cruise,2023.0,66456c29dc6d465,4131.0,Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,Asheville,-82.58427182481752,35.57847375912409
+5G21A6P09P4,Cruise,2023.0,66456c29dc6d465,4131.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,New York City,-73.91269150326798,40.75429589267286
+5G21A6P03N4,Cruise,2022.0,8aae92901672e74,4743.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,New York City,-73.76538789473685,40.67201157894736
+5TDDCRFH0GS,Toyota,2016.0,01df4e5181a9e89,57706.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Sensor and Perception Failure,San Francisco,-122.4236926993865,37.77506141104294
+5TDDCRFR7GS,Toyota,2016.0,faa7fd344bfdae8,81606.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Rich Mixture,San Francisco,-122.41027800915332,37.788096292906175
+5TDDCRFHXGS,Toyota,2016.0,39dfd67295f44eb,41402.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.54199944444446,35.61328944444445
+5TDDCRFH2GS,Toyota,2019.0,7791e0ea337eaf9,66457.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Transmission Faults,New York City,-74.08225936170213,40.644545744680855
+5TDDCRFH8GS,Toyota,2016.0,726e5fac588ffe8,89239.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.2808911764706,36.11085647058823
+5TDDCRFH0GS,Toyota,2016.0,15ece5ddb6032f8,76168.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,San Francisco,-122.44723414893618,37.76944042553192
+5TDDCRFH0GS,Toyota,2016.0,15ece5ddb6032f8,76298.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Santa Cruz County,-122.00047376068376,36.96526085470085
+5TDDGRFH7HS,Toyota,2017.0,3a51469eb6f2491,43963.0,In-Vehicle (Commercial / Test),Highway,Dry,45.0,Daylight,CLEAR,0,Battery Issues,Chicago,-87.5988996511628,41.8003676744186
+5G21A6P08P4,Cruise,2023.0,7ac71fdeaba0467,5603.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Electrical Faults,Clark County,-115.14732172413792,36.12648151724138
+5G21A6P08P4,Cruise,2023.0,7ac71fdeaba0467,5603.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Electrical Faults,Clark County,-115.13442160718954,36.10197321718954
+SADHW2S19M1,Jaguar,2021.0,7c9debf78e8ce32,45624.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Tire Wear,Seattle,-122.34611436983388,47.670702679355486
+SADHW2S10M1,Jaguar,2021.0,4d3dc5f194fb109,61708.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.17333717073171,36.035650731707314
+SADHW2S18M1,Jaguar,2021.0,9f856ec3c68a0d1,38155.0,In-Vehicle (Commercial / Test),Highway,Dry,50.0,Daylight,CLOUDY,0,Lean Mixture,San Francisco,-122.43105824561404,37.762607543859644
+SADHW2S11M1,Jaguar,2021.0,e736a273624743b,48335.0,In-Vehicle (Commercial / Test),Rural,Wet,25.0,Dark - Lighted,RAINING,0,Brake Fault,Pacific Grove,-121.9166,36.6246575
+SADHW2S14M1,Jaguar,2021.0,7ab5922ee64ed2d,36912.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,New York City,-73.94857340909091,40.76337590909091
+SADHW2S16M1,Jaguar,2021.0,a25ef0ac6ad29f4,38882.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.8146551724138,40.58681913793104
+SADHW2S12M1,Jaguar,2021.0,11bc4fb24b37091,44094.0,In-Vehicle (Commercial / Test),Urban,Dry,40.0,Dark - Lighted,CLEAR,0,Tire Wear,Chicago,-87.666038,41.974605714285715
+SADHW2S12M1,Jaguar,2021.0,11bc4fb24b37091,44094.0,In-Vehicle (Commercial / Test),Urban,Dry,40.0,Dark - Lighted,CLEAR,0,Low Voltage,New York City,-73.89015820895521,40.673955447761195
+SADHW2S10M1,Jaguar,2021.0,4d3dc5f194fb109,61708.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.36664848484848,47.56637484848485
+SADHW2S18M1,Jaguar,2021.0,9f856ec3c68a0d1,38155.0,In-Vehicle (Commercial / Test),Mountainous,Dry,35.0,Daylight,CLOUDY,0,Brake Fault,Santa Cruz County,-122.04522625,36.953806875000005
+1N4CZ1CV2PC,Nissan,2023.0,caa76225bb77e79,868.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Dawn / Dusk,CLEAR,0,Brake Fault,Pacific Grove,-121.920568,36.621368
+SADHW2S16M1,Jaguar,2021.0,a25ef0ac6ad29f4,38882.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Brake Fault,Clark County,-115.17139857142855,36.12864166666667
+SADHW2S14M1,Jaguar,2021.0,7ab5922ee64ed2d,36912.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,Chicago,-87.65997438356165,41.96750561643836
+SADHW2S11M1,Jaguar,2021.0,e736a273624743b,48335.0,In-Vehicle (Commercial / Test),Mountainous,Wet,25.0,Dark - Lighted,RAINING,0,Transmission Faults,Asheville,-82.50535625,35.59794375
+SADHW2S10M1,Jaguar,2021.0,efd736cb25da3bf,34727.0,,Mountainous,Dry,15.0,Dark - Lighted,CLEAR,0,Transmission Faults,Asheville,-82.557792,35.574808
+SADHW2S16M1,Jaguar,2021.0,dd9c07aaa0d58c4,38196.0,,Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.72168428571429,41.959858571428576
+SADHW2S15M1,Jaguar,2021.0,85a9f39d9ae609d,32763.0,,Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Seattle,-122.28456264150944,47.55880669811321
+SADHW2S19M1,Jaguar,2021.0,7c9debf78e8ce32,45624.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.17605206349204,36.009205238095234
+1XPBD49X2PD,Peterbilt,2022.0,266606b641b9c42,31279.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLOUDY,0,Cooling System Damage,Chicago,-87.68158625,41.9623646875
+1XPBD49X2PD,Peterbilt,2022.0,266606b641b9c42,31279.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLOUDY,0,Suspension System Failures,Chicago,-87.66518245535714,41.99467040178571
+5G21A6P01P4,Cruise,2023.0,08f69614e937c8f,1200.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Suspension System Failures,Seattle,-122.32341455284552,47.64145341463414
+5G21A6P08P4,Cruise,2023.0,6d0328a702d6455,4160.0,Remote (Commercial / Test),Urban,Dry,30.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,Seattle,-122.4070862962963,47.577916049382715
+5G21A6P08P4,Cruise,2023.0,6cabc2aab43387d,1326.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.37441333333332,47.572654444444446
+5G21A6P06P4,Cruise,2023.0,945ed534eba58b1,2660.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Mateo County,-122.478444375,37.70494875
+5G21A6P06P4,Cruise,2023.0,ae1df9d4513164c,1111.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Software Bugs,San Francisco,-122.39505136363636,37.76278863636364
+5TDDCRFH1GS,Toyota,2016.0,0d9547747a03581,111324.0,In-Vehicle (Commercial / Test),Rural,Dry,45.0,Daylight,CLEAR,0,Brake Fault,Clark County,-115.23364837307692,36.03902824884615
+5G21A6P08P4,Cruise,2023.0,6d0328a702d6455,4160.0,Remote (Commercial / Test),Urban,Dry,30.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.42289785185184,37.76056614814815
+5G21A6P01P4,Cruise,2023.0,08f69614e937c8f,1200.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Software Bugs,Seattle,-122.32677,47.68437423076924
+5G21A6P06P4,Cruise,2023.0,ae1df9d4513164c,1111.0,Remote (Commercial / Test),Mountainous,Wet,25.0,Dark - Lighted,RAINING,1,Software Bugs,Asheville,-82.56019363636364,35.582361818181816
+5G21A6P08P4,Cruise,2023.0,6cabc2aab43387d,1326.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,San Francisco,-122.42498714285716,37.74796761904762
+5G21A6P06P4,Cruise,2023.0,945ed534eba58b1,2660.0,Remote (Commercial / Test),Highway,Dry,45.0,Dark - Lighted,CLEAR,1,Software Bugs,New York City,-74.02637801980198,40.633186930693064
+5TDDCRFH7G5,Toyota,2016.0,95e36aed306c214,97446.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Unknown Lighting,CLEAR,0,Brake Fault,Santa Cruz County,-122.02673,36.961821666666665
+5G21A6P01N4,Cruise,2022.0,76a3f9b4fc1ff65,2733.0,Remote (Commercial / Test),Urban,Wet,20.0,Dark - Lighted,RAINING,1,Software Bugs,San Francisco,-122.42074689655172,37.74174793103448
+5G21A6P06P4,Cruise,2023.0,fb03f78da2058ae,3604.0,Remote (Commercial / Test),Mountainous,Dry,20.0,Daylight,CLEAR,1,Software Bugs,Santa Cruz County,-122.03467333333332,36.95739717948718
+5G21A6P01N4,Cruise,2022.0,76a3f9b4fc1ff65,2733.0,Remote (Commercial / Test),Mountainous,Wet,20.0,Dark - Lighted,RAINING,1,Software Bugs,Santa Cruz County,-122.01086423076924,36.97598423076923
+5G21A6P06P4,Cruise,2023.0,fb03f78da2058ae,3604.0,Remote (Commercial / Test),Mountainous,Dry,20.0,Daylight,CLEAR,1,Transmission Faults,Santa Cruz County,-121.90334823529412,36.969782
+SADHW2S16M1,Jaguar,2021.0,5ea534fc5d6467f,31799.0,,Urban,Dry,35.0,Dark - Lighted,CLEAR,0,Transmission Faults,Seattle,-122.36858363636362,47.70118
+5G21A6P02P4,Cruise,2023.0,69a0605270dcfea,4821.0,Remote (Commercial / Test),Highway,Dry,50.0,Dark - Lighted,CLEAR,1,Software Bugs,Pacific Grove,-121.922905,36.61519
+5G21A6P02P4,Cruise,2023.0,69a0605270dcfea,4821.0,Remote (Commercial / Test),Highway,Dry,50.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Chicago,-87.62374888888888,41.854295694444446
+5G21A6P00P4,Cruise,2023.0,c81bcb055117b58,3904.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,1,Tire Wear,Clark County,-114.930217012987,36.1032425974026
+5G21A6P00P4,Cruise,2023.0,c81bcb055117b58,3904.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,1,Sensor and Perception Failure,New York City,-73.96062109589042,40.57835876712329
+SADHW2S15M1,Jaguar,2021.0,4dd9f0bc3236236,50282.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Rich Mixture,New York City,-73.85610311926605,40.72850055045872
+SADHW2S11M1,Jaguar,2021.0,a13402fe44e7310,23606.0,,Rural,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.16739530514286,36.0981210292
+SADHW2S15M1,Jaguar,2021.0,e1d17d1b67dae98,46863.0,,Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,San Francisco,-122.41488683333334,37.749939000000005
+SADHW2S15M1,Jaguar,2021.0,4dd9f0bc3236236,50282.0,In-Vehicle (Commercial / Test),Mountainous,Dry,45.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.58122504666666,35.62716308238095
+SADHW2S17M1,Jaguar,2021.0,474b4059a9adf93,16847.0,,Highway,Wet,55.0,Dark - Lighted,RAINING,0,Lean Mixture,Chicago,-87.68579338235294,41.87740522058824
+5G21A6P06N4,Cruise,2022.0,cca48370ec39081,1111.0,Remote (Commercial / Test),Highway,Dry,45.0,Dawn / Dusk,CLEAR,1,Mechanical Issues,New York City,-73.81883029126215,40.757163495145626
+5G21A6P06N4,Cruise,2022.0,cca48370ec39081,1111.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Brake Fault,Pacific Grove,-121.924415,36.631735
+5G21A6P07P4,Cruise,2023.0,a48d7d37bb1de6c,1129.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Francisco,-122.42488875,37.79208166666667
+5G21A6P00N4,Cruise,2022.0,1321c26de5aba76,4632.0,Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,Asheville,-82.53660058823529,35.57506764705882
+W1K6G7GB4PA,Mercedes-Benz,2022.0,89c23e414562529,15045.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Tire Wear,San Mateo County,-122.28243107142858,37.543973214285714
+W1K2231761A,Mercedes-Benz,2021.0,19247ac4efdcbaf,45380.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,San Mateo County,-122.4615116374269,37.704030877192984
+1XKYD49XXPJ,Kenworth Motor Truck Co,2023.0,2309d0a572da37c,40405.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLOUDY,0,Transmission Faults,Seattle,-122.35545147058824,47.53563058823529
+5TDDCRFH9GS,Toyota,2016.0,0def0400dbda986,73157.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Low Voltage,San Francisco,-122.43957207317074,37.77707390243903
+5G21A6P07P4,Cruise,2023.0,a48d7d37bb1de6c,1129.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.4158134375,37.746420625
+5G21A6P00N4,Cruise,2022.0,1321c26de5aba76,4362.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.29385268292684,47.57926597560975
+1XKYD49XXPJ,Kenworth Motor Truck Co,2023.0,2309d0a572da37c,40405.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLOUDY,0,Brake Fault,San Mateo County,-122.350081875,37.58139625
+KMHKM4AE4M1,Hyundai,2021.0,3ef3620dd07f0df,6330.0,In-Vehicle (Commercial / Test),Mountainous,Dry,15.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.5030842857143,35.58656
+SADHW2S16M1,Jaguar,2021.0,539ccc1f53d0028,47034.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.38768769230772,47.56484730769231
+SADHW2S16M1,Jaguar,2021.0,539ccc1f53d0028,47034.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.8305143089431,40.75078739837398
+5G21A6P03P4,Cruise,2023.0,3b9b2aa115ee9b6,2126.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Electrical Faults,Clark County,-115.30739315789474,36.10652315789474
+5G21A6P03P4,Cruise,2023.0,3b9b2aa115ee9b6,2126.0,Remote (Commercial / Test),Highway,Dry,60.0,Dark - Lighted,CLEAR,1,Software Bugs,Chicago,-87.71111444444445,41.9563325
+1L90LL122MT,Local Motors,2018.0,a58d95ed6f929ea,280.0,Consumer,Urban,Dry,30.0,Daylight,CLOUDY,0,Low Voltage,Chicago,-87.61546324675325,41.81523116883117
+50EA1GBA8NA,Lucid,2022.0,e04e259ef9c6ab4,1589.0,Consumer,Highway,Dry,70.0,Dawn / Dusk,CLEAR,0,Battery Issues,New York City,-74.02823151898734,40.62206075949367
+5TDDCRFHXGS,Toyota,2016.0,5e28e7f4219df90,89119.0,In-Vehicle (Commercial / Test),Highway,Dry,45.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.28716661016948,47.66917796610169
+SADHW2S15M1,Jaguar,2021.0,c01ea2068860b0f,22991.0,In-Vehicle (Commercial / Test),Highway,Dry,50.0,Daylight,CLEAR,0,Battery Issues,Clark County,-115.24060636363636,36.09614
+2C4RC1K74HR,Chrysler,2017.0,27c58a6d27dde97,64430.0,,Rural,Dry,25.0,Daylight,CLEAR,0,Rich Mixture,San Mateo County,-122.13097979166668,37.459373541666665
+SADHW2S15M1,Jaguar,2021.0,c01ea2068860b0f,22991.0,,Rural,Dry,35.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.1578723076923,37.47713653846154
+SADHW2S1XM1,Jaguar,2021.0,f5166bf634e8c45,26717.0,,Mountainous,Dry,5.0,Dark - Lighted,CLEAR,0,Transmission Faults,Santa Cruz County,-121.91769681818182,36.975562045454545
+1XKYD49XXPJ,Kenworth Motor Truck Co,2023.0,2309d0a572da37c,40405.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLOUDY,0,Tire Wear,Seattle,-122.284424,47.56831533333333
+5TDDCRFH1G8,Toyota,2016.0,7e7d2e10d098731,112547.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Battery Issues,Chicago,-87.68783714285715,42.01653
+KMHKM4AE7M1,Hyundai,2021.0,ed2dae19cdf8cb4,3474.0,In-Vehicle (Commercial / Test),Urban,Dry,35.0,Daylight,CLEAR,0,Alternator Failure,New York City,-73.92779791666666,40.82132791666667
+SADHW2S10M1,Jaguar,2021.0,6f605e952015487,29338.0,,Rural,Dry,35.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.1831975862069,36.14117862068966
+SADHW2S1XM1,Jaguar,2021.0,ecc86902e84d762,20087.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.27852785714286,47.63885428571428
+SADHW2S11M1,Jaguar,2021.0,0e6a53c810d6e3f,34517.0,In-Vehicle (Commercial / Test),Mountainous,Wet,30.0,Dark - Lighted,RAINING,0,Brake Fault,Asheville,-82.52963454545454,35.62596090909091
+1XPBD49X5MD,Peterbilt,2021.0,e3f4abc806213fd,224066.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Dark - Not Lighted,CLOUDY,0,Lean Mixture,Clark County,-115.14824866666666,36.16029155555555
+SADHW2S16M1,Jaguar,2021.0,3c6f579b1a334dc,31404.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Suspension System Failures,San Mateo County,-122.3919147368421,37.59993052631579
+SADHW2S11M1,Jaguar,2021.0,0e6a53c810d6e3f,34517.0,In-Vehicle (Commercial / Test),Highway,Wet,65.0,Dark - Lighted,RAINING,0,Lean Mixture,Seattle,-122.2723445,47.5545665
+1XPBD49X5MD,Peterbilt,2021.0,e3f4abc806213fd,224066.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Dark - Not Lighted,CLOUDY,0,Lean Mixture,New York City,-73.87180602150538,40.688088494623656
+SADHW2S1XM1,Jaguar,2021.0,ecc86902e84d762,20087.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.10598741935485,36.114396774193544
+SADHW2S16M1,Jaguar,2021.0,3c6f579b1a334dc,31404.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Electrical Faults,Clark County,-115.12730289156627,36.12885072289156
+5G21A6P06N4,Cruise,2022.0,5766dae9b40247d,3128.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Software Bugs,San Francisco,-122.41194379572192,37.77608109513369
+5G21A6P00P4,Cruise,2023.0,c96c3a11a1d752c,820.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Francisco,-122.42971470588236,37.742232941176475
+5G21A6P06N4,Cruise,2022.0,5766dae9b40247d,3128.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Sensor and Perception Failure,San Francisco,-122.42485430555556,37.75446666666667
+5G21A6P00P4,Cruise,2023.0,c96c3a11a1d752c,820.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.27120636363637,47.54531909090909
+50EA1TEA3PA,Lucid,2023.0,695f4237a71bfdc,406.0,Consumer,Highway,Wet,55.0,Dawn / Dusk,RAINING,0,Suspension System Failures,New York City,-73.86555571428572,40.855222857142856
+5G21A6P07P4,Cruise,2023.0,1ac4f435ad3b2dc,18.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Mechanical Issues,San Francisco,-122.42514263157896,37.730603157894734
+5G21A6P07P4,Cruise,2023.0,1ac4f435ad3b2dc,18.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Software Bugs,Seattle,-122.399304,47.65961933333333
+5G21A6P05P4,Cruise,2023.0,7f0cd20edfcc133,1239.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Francisco,-122.40502818181818,37.79423393939394
+5G21A6P05P4,Cruise,2023.0,7f0cd20edfcc133,1239.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.2803953968254,47.54008587301587
+SADHW2S10M1,Jaguar,2021.0,3992c1b3baeaf38,45898.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Mechanical Issues,Seattle,-122.30097444444444,47.67598777777778
+SADHW2S10M1,Jaguar,2021.0,3992c1b3baeaf38,45898.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Rich Mixture,San Francisco,-122.44445833333332,37.75803875
+5TDYRKEC0MS,Toyota,2021.0,bfc192427eab6ea,5708.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Sensor and Perception Failure,New York City,-73.92038055555555,40.830630740740744
+2T2JGMDA0LC,Lexus,2020.0,cb6e38b363be262,25702.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.91424333333332,36.61897666666667
+SADHW2S16M1,Jaguar,2021.0,5ea534fc5d6467f,21957.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Low Voltage,Seattle,-122.39149607142858,47.63861392857143
+SADHW2S19M1,Jaguar,2021.0,3ec8539482cc8b0,35308.0,In-Vehicle (Commercial / Test),Highway,Wet,60.0,Daylight,RAINING,0,Lean Mixture,Chicago,-87.6671709045226,41.85471216080402
+SADHW2S19M1,Jaguar,2021.0,3ec8539482cc8b0,35308.0,In-Vehicle (Commercial / Test),Rural,Wet,25.0,Daylight,RAINING,0,Electrical Faults,Clark County,-115.160792,36.140446
+SADHW2S10M1,Jaguar,2021.0,7.51464E+14,33978.0,,Urban,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Chicago,-87.70515133333333,41.94788466666667
+SADHW2S16M1,Jaguar,2021.0,5ea534fc5d6467f,21957.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Transmission Faults,San Francisco,-122.424063125,37.767723125
+1N9A1SAC6JS,Navya,2018.0,8ecf1f29e92e6f2,3413.0,In-Vehicle (Commercial / Test),Mountainous,Dry,20.0,Dawn / Dusk,CLEAR,0,Tire Wear,Santa Cruz County,-121.95172604166667,36.97360041666666
+W1K2231601A,Mercedes-Benz,2021.0,d376a488244efc4,4722.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Brake Fault,Clark County,-115.13980933333332,36.16991311111111
+W1K2231601A,Mercedes-Benz,2021.0,d376a488244efc4,4722.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Electrical Faults,San Francisco,-122.40677748720933,37.80159892901163
+SADHW2S18M1,Jaguar,2021.0,c076b8ec8eaf73f,47130.0,,Mountainous,Wet,15.0,Dark - Lighted,CLEAR,0,Brake Fault,Asheville,-82.607824375,35.58283625
+5TDDCRFH4GS,Toyota,2016.0,31b1818df0c9fce,102496.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Asheville,-82.57649842105263,35.630489999999995
+5TDDCRFH0GS,Toyota,2016.0,e3ca3db6c055516,65697.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Tire Wear,San Francisco,-122.43447796875,37.75823765625
+5TDDCRFH3GS,Toyota,2016.0,1db0801a222a5aa,88602.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Dark - Lighted,CLEAR,0,Tire Wear,Chicago,-87.70695566666667,41.884479000000006
+5TDDCRFH4GS,Toyota,2016.0,31b1818df0c9fce,101494.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Rich Mixture,Seattle,-122.38495,47.64890617647058
+5TDYRKEC0MS,Toyota,2021.0,bfc192427eab6ea,5708.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Brake Fault,New York City,-73.8292427586207,40.76438793103448
+2T2JGMDA2LC,Lexus,2020.0,1c26f99cf0c3b77,24692.0,In-Vehicle (Commercial / Test),Mountainous,Dry,0.0,Dark - Lighted,CLEAR,0,Suspension System Failures,Asheville,-82.5252588888889,35.61215555555556
+SADHW2S18M1,Jaguar,2021.0,4a17d6b39e90898,28333.0,In-Vehicle (Commercial / Test),Rural,Dry,15.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.21818318181818,36.086512727272726
+SADHW2S18M1,Jaguar,2021.0,4a17d6b39e90898,28333.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.30299365384616,47.6413675
+1XPBD49X0ND,Peterbilt,2022.0,f05623756b7ce73,3987.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Software Bugs,Chicago,-87.7078047826087,41.96671608695653
+1FMCU0DZ3LU,Ford,2020.0,44e401161509e26,2277.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Chicago,-87.64995595238095,41.83482738095238
+1FMCU0DZ3LU,Ford,2020.0,44e401161509e26,1912.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Mechanical Issues,Chicago,-87.714707,41.9486825
+5TDYRKEC0MS,Toyota,2021.0,1b8e1ba43ca8f0b,700.0,In-Vehicle (Commercial / Test),Mountainous,Dry,20.0,Daylight,CLEAR,0,Alternator Failure,Santa Cruz County,-122.03082214285712,36.97489642857143
+5TDDCRFH9GS,Toyota,2016.0,c163af6fd5e1e60,39307.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Fuel System Issues,San Francisco,-122.41093068965516,37.7456524137931
+5TDDCRFH3GS,Toyota,2016.0,9e82491db35e19c,57118.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Software Bugs,San Francisco,-122.440344,37.755978
+2T2JGMDA0LC,Lexus,2020.0,cb6e38b363be262,25702.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.4632180882353,37.68931323529412
+1XPBD49X9ND,Peterbilt,2022.0,ecbf8e4637f763d,151927.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Battery Issues,Chicago,-87.66790148148148,41.95563555555555
+1XPBD49X9ND,Peterbilt,2022.0,ecbf8e4637f763d,151927.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Alternator Failure,New York City,-73.79418981132075,40.59011754716981
+1FMCU0DZ3LU,Ford,2020.0,44e401161509e26,2277.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,New York City,-73.96173571428571,40.62449095238095
+1FMCU0DZ3LU,Ford,2020.0,44e401161509e26,1912.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Mechanical Issues,Chicago,-87.63382237288135,41.85190016949153
+LPSED3KA9NL,Polestar,2022.0,0c2f1d8b59e2117,9214.0,In-Vehicle (Commercial / Test),Highway,Dry,50.0,Daylight,CLEAR,0,Software Bugs,Seattle,-122.267775,47.49761
+SADHW2S19M1,Jaguar,2021.0,c6b9fb3009b44fc,24086.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Dawn / Dusk,CLEAR,0,Lean Mixture,Chicago,-87.60723875000001,41.6891975
+SADHW2S18M1,Jaguar,2021.0,2c7a9a00277e615,38190.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,San Francisco,-122.40085326086955,37.75523760869565
+SADHW2S14M1,Jaguar,2021.0,3f1e3d345cb4788,21860.0,In-Vehicle (Commercial / Test),Rural,Dry,15.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.239262,36.090738
+1XPBD49X2ND,Peterbilt,2022.0,5fdcce1b9f02689,139488.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Dark - Not Lighted,CLEAR,0,Alternator Failure,Chicago,-87.57035073170732,41.766446341463414
+1XPBD49X2ND,Peterbilt,2022.0,5fdcce1b9f02689,139488.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Dark - Not Lighted,CLEAR,0,Alternator Failure,Clark County,-115.23653760869566,36.10897326086957
+SADHW2S19M1,Jaguar,2021.0,c6b9fb3009b44fc,24086.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dawn / Dusk,CLEAR,0,Cooling System Damage,Asheville,-82.59341307692307,35.59636
+SADHW2S18M1,Jaguar,2021.0,2c7a9a00277e615,38190.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.87261723214286,40.766492410714285
+SADHW2S14M1,Jaguar,2021.0,3f1e3d345cb4788,21860.0,In-Vehicle (Commercial / Test),Rural,Dry,10.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.91092,36.6182425
+1FMCU0DZ8LU,Ford,2020.0,27e565631721655,2902.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.76884875,41.96913416666667
+2T2JGMDA6LC,Lexus,2020.0,2d0f63a50d3fd79,19352.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.49196642857144,37.70153214285715
+5G21A6P00N4,Cruise,2022.0,20fd2beae76defe,3341.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.43529162162162,37.76530648648649
+1FMCU0DZ8LU,Ford,2020.0,27e565631721655,2902.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Transmission Faults,Chicago,-87.75682095238096,41.93985190476191
+5G21A6P00N4,Cruise,2022.0,20fd2beae76defe,3341.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.39953133333331,47.56630666666667
+5TDYRKEC0MS,Toyota,2021.0,1b8e1ba43ca8f0b,700.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Asheville,-82.620225,35.5897225
+1FMCU0DZ3LU,Ford,2020.0,9a0d2b6602a2ffb,4006.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.73295566666667,41.96181133333333
+1FMCU0DZ3LU,Ford,2020.0,9a0d2b6602a2ffb,4006.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Suspension System Failures,Asheville,-82.48037222222223,35.54869333333333
+SADHW2S17M1,Jaguar,2021.0,2e36ef5640679ec,29977.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.13388363636363,36.16180818181818
+SADHW2S17M1,Jaguar,2021.0,2e36ef5640679ec,29977.0,In-Vehicle (Commercial / Test),Mountainous,Dry,35.0,Daylight,CLEAR,0,Mechanical Issues,Asheville,-82.4697911111111,35.60329222222222
+VJRD1A10230,Ligier,2019.0,da2b2192cb706f3,5357.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,San Francisco,-122.4103475362319,37.75583956521739
+SADHW2S18M1,Jaguar,2021.0,006bac2ce63f1bf,28679.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Electrical Faults,Clark County,-115.21932333333332,36.15204666666667
+SADHW2S11M1,Jaguar,2021.0,03a8719f5e6a313,44439.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Dark - Lighted,UNKNOWN,0,Rich Mixture,Chicago,-87.78733,41.93864375
+1XPBD49XXMD,Peterbilt,2021.0,3c9d14cc7392a38,194446.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dawn / Dusk,CLOUDY,0,Lean Mixture,Pacific Grove,-121.91,36.619495
+SADHW2S15M1,Jaguar,2021.0,1d779bc3c6588a4,10537.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Dark - Lighted,CLEAR,0,Alternator Failure,Clark County,-114.09021967741936,36.80166516129032
+SADHW2S19M1,Jaguar,2021.0,d486f6b56e17cbc,17214.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Transmission Faults,Seattle,-122.27789733333334,47.528891333333334
+1XKYD49X7NJ,Kenworth,2022.0,f8d0946bbb70e83,10766.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Electrical Faults,Chicago,-87.690921,41.957947
+SADHW2S15M1,Jaguar,2021.0,c5a24e4de70b2d6,40181.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,UNKNOWN,0,Tire Wear,New York City,-73.90300666666667,40.84975708333334
+SADHW2S15M1,Jaguar,2021.0,9d4d73bafd748f5,38984.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.773803,41.884134
+SADHW2S18M1,Jaguar,2021.0,006bac2ce63f1bf,28679.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLOUDY,0,Transmission Faults,Asheville,-82.48743571428572,35.60783285714286
+SADHW2S11M1,Jaguar,2021.0,03a8719f5e6a313,44439.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Dark - Lighted,UNKNOWN,0,Rich Mixture,Chicago,-87.60346333333334,41.82110111111111
+1XPBD49XXMD,Peterbilt,2021.0,3c9d14cc7392a38,194446.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dawn / Dusk,CLOUDY,0,Lean Mixture,San Francisco,-122.4439862745098,37.76196725490196
+SADHW2S15M1,Jaguar,2021.0,1d779bc3c6588a4,10537.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Tire Wear,Clark County,-115.1451288095238,36.149316666666664
+SADHW2S19M1,Jaguar,2021.0,d486f6b56e17cbc,17214.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Cooling System Damage,Santa Cruz County,-122.01996333333334,37.04474
+SADHW2S1XM1,Jaguar,2021.0,39cc9faced8effe,22657.0,,Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.17527363636364,36.12402636363636
+SADHW2S15M1,Jaguar,2021.0,c5a24e4de70b2d6,40181.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,UNKNOWN,0,Low Voltage,New York City,-73.95816392857144,40.59919428571429
+2C4RC1K74HR,Chrysler,2017.0,be729ced367406a,99215.0,,Mountainous,Dry,30.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.61491428571428,35.56892571428572
+SADHW2S15M1,Jaguar,2021.0,9d4d73bafd748f5,38984.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Cooling System Damage,Chicago,-87.6194954347826,41.8307902173913
+1FMCU0DZ0LU,Ford,2020.0,c54df74e3c62f9e,4783.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Cooling System Damage,New York City,-73.83075000000001,40.70790958333333
+1FMCU0DZ4LU,Ford,2020.0,ffc5e4357bf2326,1857.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Electrical Faults,New York City,-73.90538129032258,40.88439322580645
+1FMCU0DZ0LU,Ford,2020.0,c54df74e3c62f9e,4783.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Alternator Failure,Chicago,-87.66339545454547,41.871092727272725
+1FMCU0DZ4LU,Ford,2020.0,ffc5e4357bf2326,1857.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Low Voltage,New York City,-73.85354928571428,40.68947428571429
+5G21A6P08L4,Cruise,2020.0,a89c78cfdf2ef47,12595.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,San Francisco,-122.407555,37.75192261904762
+5G21A6P0XL4,Cruise,2020.0,c560f83c137675c,40836.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Low Voltage,Seattle,-122.28766666666668,47.68103
+5TDDCRFH0GS,Toyota,2016.0,9bdb2d878b5484e,81418.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Sensor and Perception Failure,San Francisco,-122.4076357142857,37.75984714285715
+5G21A6P08L4,Cruise,2020.0,a89c78cfdf2ef47,12595.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Low Voltage,Seattle,-122.393331,47.646667
+5G21A6P0XL4,Cruise,2020.0,c560f83c137675c,40836.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Rich Mixture,Seattle,-122.30419181818182,47.69301636363637
+1XKYD49X7NJ,Kenworth Motor Truck Co,2022.0,f8d0946bbb70e83,10766.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Rich Mixture,Seattle,-122.38677181818184,47.59032181818182
+5G21A6P07N4,Cruise,2022.0,afb12fabd0488b0,8598.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Software Bugs,San Francisco,-122.42001088607596,37.8057329113924
+5G21A6P07N4,Cruise,2022.0,afb12fabd0488b0,8598.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,1,Mechanical Issues,Santa Cruz County,-121.89626222222222,36.96790333333334
+2T2JGMDA6LC,LExus,2020.0,2d0f63a50d3fd79,19352.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,Chicago,-87.60949022988507,41.78400965517241
+5TDDCRFH1GS,Toyota,2016.0,2bb8d67435b9951,,In-Vehicle (Commercial / Test),Mountainous,Dry,35.0,Daylight,CLEAR,0,Cooling System Damage,Santa Cruz County,-122.033098,36.967928
+5TDDCRFH3GS,Toyota,2016.0,2401d351bdc80d9,96912.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Transmission Faults,Asheville,-82.52500064516128,35.56683387096774
+VJRD1A10230,Ligier Group,2019.0,da2b2192cb706f3,5357.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.49256642857142,37.63377035714286
+1XKYD49X7NJ,Kenworth Motor Truck Co,2022.0,f8d0946bbb70e83,10766.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Mechanical Issues,Clark County,-115.2079553846154,36.04625
+SADHW2S10M1,Jaguar,2021.0,3d7a03e316ec104,33977.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Electrical Faults,Clark County,-115.23083074042552,36.05812303148936
+SADHW2S10M1,Jaguar,2021.0,3d7a03e316ec104,33977.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Tire Wear,Clark County,-115.26401783783784,36.1284072972973
+VJRD1A10230,Ligier,2019.0,da2b2192cb706f3,5357.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-121.87608352941176,36.95100411764706
+SADHW2S1XM1,Jaguar,2021.0,8110795f6daf529,21943.0,In-Vehicle (Commercial / Test),Mountainous,Dry,15.0,Daylight,UNKNOWN,0,Battery Issues,Asheville,-82.47655333333334,35.554543333333335
+SADHW2S1XM1,Jaguar,2021.0,b5c25ec17ea8588,23628.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,San Francisco,-122.41591907692307,37.739166
+SADHW2S19M1,Jaguar,2021.0,778fffc33261129,34308.0,In-Vehicle (Commercial / Test),Urban,Dry,35.0,Dark - Lighted,CLEAR,0,Cooling System Damage,Seattle,-122.31628416666666,47.6973725
+SADHW2S15M1,Jaguar,2021.0,a4da19aa3243c05,30770.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.92676,36.6252
+2C4RC1K79HR,Chrysler,2017.0,c9e543e540c6f4d,23524.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,UNKNOWN,0,Battery Issues,Santa Cruz County,-122.02648571428573,36.97125857142857
+SADHW2S13M1,Jaguar,2021.0,ec3bbd986bcba9a,,In-Vehicle (Commercial / Test),Rural,Dry,15.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.41730375,37.706221875
+2C4RC1K74HR,Chrysler,2017.0,27c58a6d27dde97,52590.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLOUDY,0,Brake Fault,Pacific Grove,-121.92163666666666,36.622076666666665
+SADHW2S13M1,Jaguar,2021.0,ec3bbd986bcba9a,,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.2635294736842,36.119734736842105
+5G21A6P0XL4,Cruise,2020.0,80d271b9f0d3d5c,42248.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Brake Fault,Clark County,-115.11203826086955,36.10035434782609
+5G21A6P09L4,Cruise,2020.0,c91a9cfc9714292,46105.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Rich Mixture,San Francisco,-122.40329702,37.7607633744
+5G21A6P01N4,Cruise,2022.0,12a4d02d0edc3a9,2043.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.4159299586777,37.79540466942149
+5G21A6P08L4,Cruise,2020.0,5fa6469be776c73,36885.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Mechanical Issues,San Francisco,-122.42571217391306,37.75089217391304
+2C4RC1K74HR,Chrysler,2017.0,27c58a6d27dde97,52590.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLOUDY,0,Lean Mixture,Clark County,-115.25109142857144,36.05266357142857
+2C4RC1K79HR,Chrysler,2017.0,c9e543e540c6f4d,23524.0,In-Vehicle (Commercial / Test),Mountainous,Dry,15.0,Dark - Lighted,UNKNOWN,0,Transmission Faults,Asheville,-82.50376666666666,35.47503866666667
+SADHW2S15M1,Jaguar,2021.0,a4da19aa3243c05,30770.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Dark - Lighted,CLEAR,0,Lean Mixture,Pacific Grove,-121.92096666666669,36.62394666666666
+2T2JGMDA7LC,Lexus,2020.0,3b9ab2e732bb69f,19835.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Chicago,-87.599233,41.814606
+5G21A6P08L4,Cruise,2020.0,5fa6469be776c73,36885.0,Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Suspension System Failures,San Francisco,-122.4364824489796,37.75292081632653
+5G21A6P09L4,Cruise,2020.0,c91a9cfc9714292,46105.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Rich Mixture,San Francisco,-122.406,37.74705071428571
+5G21A6P0XL4,Cruise,2020.0,80d271b9f0d3d5c,42248.0,Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Asheville,-82.51204833333334,35.490725
+5G21A6P01N4,Cruise,2022.0,12a4d02d0edc3a9,2043.0,Remote (Commercial / Test),Urban,Dry,10.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,Seattle,-122.30895909090908,47.55769272727273
+SADHW2S19M1,Jaguar,2021.0,778fffc33261129,34308.0,In-Vehicle (Commercial / Test),Urban,Dry,35.0,Dark - Lighted,CLEAR,0,Alternator Failure,San Francisco,-122.397386875,37.78129609375
+SADHW2S1XM1,Jaguar,2021.0,b5c25ec17ea8588,23628.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.91514,36.621385
+SADHW2S1XM1,Jaguar,2021.0,8110795f6daf529,21943.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,UNKNOWN,0,Alternator Failure,Asheville,-82.50877041666666,35.55151083333333
+1FUJHHDR7ML,Freightliner,2021.0,5310696cce8fa26,59545.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Lean Mixture,San Francisco,-122.43225866666668,37.752101333333336
+1FUJHHDR7ML,FREIGHTLINER,2021.0,5310696cce8fa26,59545.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.27448222222225,47.52376888888889
+50EA1DAA6NA,Lucid,2022.0,a878f826cd577d9,177751.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Dark - Lighted,CLEAR,0,Battery Issues,Clark County,-115.13587444444444,36.06221
+1FUJHHDR3ML,FREIGHTLINER,2021.0,333b3dc2fdd5341,52858.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLOUDY,0,Fuel System Issues,Seattle,-122.359076,47.702331
+1FUJHHDR3ML,FREIGHTLINER,2021.0,333b3dc2fdd5341,52858.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLOUDY,0,Lean Mixture,Seattle,-122.35507454545454,47.55461636363636
+SADHW2S1XM1,Jaguar,2021.0,61c27e449091005,11919.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.31793636363636,47.717881818181816
+SADHW2S1XM1,Jaguar,2021.0,61c27e449091005,11919.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Fuel System Issues,Clark County,-115.268645,36.185298
+SADHW2S19M1,Jaguar,2021.0,1f1e378b74b2187,24352.0,In-Vehicle (Commercial / Test),Urban,Wet,25.0,Daylight,RAINING,0,Low Voltage,Seattle,-122.28231571428572,47.72182428571429
+SADHW2S12M1,Jaguar,2021.0,400295965fa177c,18090.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Daylight,CLEAR,0,Lean Mixture,Chicago,-87.68719200000001,41.97554733333333
+1FMCU0DZ2LU,Ford,2020.0,6e5207a28036baf,1949.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.18381563829789,36.12235521276595
+1FMCU0DZ9LU,Ford,2020.0,d9867f090c65889,2034.0,In-Vehicle (Commercial / Test),Urban,Wet,30.0,Daylight,RAINING,0,Fuel System Issues,Chicago,-87.58417200000001,41.79866866666667
+SADHW2S19M1,Jaguar,2021.0,1f1e378b74b2187,24352.0,In-Vehicle (Commercial / Test),Urban,Wet,25.0,Daylight,RAINING,0,Low Voltage,Seattle,-122.35178571428573,47.72432285714286
+SADHW2S12M1,Jaguar,2021.0,400295965fa177c,18090.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.4790992753623,37.682082028985505
+SADHW2S11M1,Jaguar,2021.0,cc4cb8a51705cf4,28219.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Dark - Lighted,CLEAR,0,Fuel System Issues,New York City,-73.8778650877193,40.67325596491228
+SADHW2S15M1,Jaguar,2021.0,e801f0c281cadd6,23192.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.39348333333334,47.65223888888889
+2T2BGMCAXGC,Lexus,2016.0,f2b11b05513e165,39990.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-122.02205927272728,36.966891272727274
+1FMCU0DZ2LU,Ford,2020.0,6e5207a28036baf,1949.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.888335,40.81347777777778
+1FMCU0DZ9LU,Ford,2020.0,d9867f090c65889,2034.0,In-Vehicle (Commercial / Test),Urban,Wet,30.0,Daylight,RAINING,0,Low Voltage,Chicago,-87.7176761111111,41.969590555555556
+5TDDCRFH1GS,Toyota,2016.0,01adc56fe1fe783,91060.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,San Francisco,-122.44507555555556,37.775953333333334
+5G21A6P04L4,Cruise,2020.0,7c5cce40a8c4c2d,26404.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Cooling System Damage,San Francisco,-122.43876210526317,37.760599473684216
+5G21A6P04L4,Cruise,2020.0,7c5cce40a8c4c2d,26404.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Mechanical Issues,San Francisco,-122.39056663043478,37.786376195652174
+SADHW2S16M1,Jaguar,2021.0,ef101729afc1d68,26479.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-122.144638,37.036508000000005
+SADHW2S16M1,Jaguar,2021.0,ef101729afc1d68,26479.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.61349933333334,35.52245666666667
+3FA6P0MU3KR,Ford,2019.0,2ad07e63259f51d,10722.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.6309909090909,41.76659818181818
+1FMCU0DZ1LU,Ford,2020.0,5135f43efb33b58,1635.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Mechanical Issues,Chicago,-87.62322545454545,41.8066490909091
+1FMCU0DZ1LU,Ford,2020.0,5135f43efb33b58,1635.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Cooling System Damage,New York City,-73.77007266666666,40.66167666666667
+SADHW2S1XM1,Jaguar,2021.0,4c109ee6f767a49,14770.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Santa Cruz County,-121.889334,36.966618
+SADHW2S16M1,Jaguar,2021.0,ff8de7fa92c0d5e,25651.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,Chicago,-87.69561,41.97190818181818
+SADHW2S11M1,Jaguar,2021.0,8d1fad62a288528,16393.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,Pacific Grove,-121.92462,36.634105
+SADHW2S1XM1,Jaguar,2021.0,4c109ee6f767a49,14770.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.109605,36.04663194444444
+SADHW2S16M1,Jaguar,2021.0,ff8de7fa92c0d5e,25651.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Fuel System Issues,Clark County,-115.30830818181818,36.09498818181818
+SADHW2S11M1,Jaguar,2021.0,8d1fad62a288528,16393.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Daylight,CLEAR,0,Tire Wear,San Mateo County,-122.16330333333332,37.469475
+3HSDZAPR6MN,International,2021.0,19fed228241ac11,78762.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.8497271875,40.6960878125
+1FMCU0DZ8LU,Ford,2020.0,27e565631721655,1016.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.36152,37.58505777777778
+,Hyundai,2022.0, ,6742.0,In-Vehicle (Commercial / Test),Mountainous,Dry,15.0,Daylight,CLEAR,0,Sensor and Perception Failure,Asheville,-82.54045583333334,35.56525
+W1K2231301A,Mercedes-Benz,2022.0,2921d71c8e43ff9,28508.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Rich Mixture,New York City,-74.08087821428572,40.635088571428575
+1FMCU0DZ8LU,Ford,2020.0,27e565631721655,1016.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Clark County,-115.16839785714284,36.16820357142857
+KM8K23AG2MU,Hyundai,2021.0,c27390a5d6cc6fa,19429.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-121.98532142857142,36.96503
+,Navya,, ,,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Fuel System Issues,Clark County,-115.23245281052633,36.14878174052632
+2T2JGMDA7LC,Lexus,2020.0,3b9ab2e732bb69f,19835.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,New York City,-73.97454450000001,40.6084855
+5G21A6P05N4,Cruise,2022.0,67055320714abc5,697.0,Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Mateo County,-122.22783370370372,37.481563333333334
+5G21A6P05N4,Cruise,2022.0,67055320714abc5,697.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Tire Wear,Clark County,-115.1948105,36.146057
+5G21A6P06L4,Cruise,2020.0,da2115ee1029a21,49754.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Rich Mixture,San Francisco,-122.4238592,37.8014312
+5G21A6P06L4,Cruise,2020.0,da2115ee1029a21,49754.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Low Voltage,San Francisco,-122.4089857142857,37.743100000000005
+5G21A6P05L4,Cruise,2020.0,4ede896caa0dd6e,32234.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Brake Fault,Pacific Grove,-121.909585,36.618335
+5G21A6P03L4,Cruise,2020.0,c8b988b72ff1d9f,32821.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Lean Mixture,Clark County,-115.16086545454546,36.024669090909086
+5G21A6P05L4,Cruise,2020.0,4ede896caa0dd6e,32234.0,Remote (Commercial / Test),Mountainous,Dry,30.0,Dark - Lighted,CLEAR,1,Transmission Faults,Santa Cruz County,-121.87493833333332,36.96766
+5G21A6P03L4,Cruise,2020.0,c8b988b72ff1d9f,32821.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Lean Mixture,New York City,-73.95427357142857,40.607641071428574
+SADHW2S15M1,Jaguar,2021.0,c690f79b5f85c4b,32794.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Dark - Lighted,CLEAR,0,Mechanical Issues,San Mateo County,-122.475098,37.509329
+SADHW2S10M1,Jaguar,2021.0,783ba56d2d747d1,16836.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,San Francisco,-122.40363780487804,37.78002170731707
+SADHW2S10M1,Jaguar,2021.0,4d3dc5f194fb109,30050.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Asheville,-82.49241444444445,35.55748777777777
+SADHW2S10M1,Jaguar,2021.0,4d3dc5f194fb109,30050.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Asheville,-82.62326666666667,35.55347166666667
+SADHW2S10M1,Jaguar,2021.0,783ba56d2d747d1,16836.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Mechanical Issues,San Mateo County,-122.20701096774194,37.468363548387096
+1XPBD49X6ND,Peterbilt,2022.0,c59cc1317356bf4,58117.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Battery Issues,San Francisco,-122.4344646153846,37.79058
+1XPBD49X6ND,Peterbilt,2022.0,c59cc1317356bf4,58117.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Alternator Failure,San Francisco,-122.39639,37.78724235294118
+SADHW2S19M1,Jaguar,2021.0,778fffc33261129,27380.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Brake Fault,San Francisco,-122.41917466666668,37.72592733333333
+SADHW2S17M1,Jaguar,2021.0,abe8cab2679e248,21755.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,New York City,-73.91177147058823,40.63770705882353
+SADHW2S10M1,Jaguar,2021.0,2a870b4e4109a7b,19635.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.253196875,47.512428125
+5TDDCRFH7GS,Toyota,2016.0,b945b25a6ee0e06,80506.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.4320165,37.705953
+KM8K23AG5LU,Hyundai,2020.0,47e9d5989e5a912,18430.0,In-Vehicle (Commercial / Test),Mountainous,Wet,25.0,Daylight,CLOUDY,0,Suspension System Failures,Asheville,-82.61196076923078,35.509382307692306
+3HSDZAPR6MN,INTERNATIONAL,2021.0,19fed228241ac11,78762.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.73143135135136,40.65437216216216
+5G21A6P0XL4,Cruise,2020.0,80d271b9f0d3d5c,38937.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Cooling System Damage,San Francisco,-122.41766888888888,37.76508851851852
+5G21A6P02N4,Cruise,2022.0,e380a71d5a2e209,2561.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,San Francisco,-122.44821583333334,37.7642825
+5G21A6P05L4,Cruise,2020.0,4ede896caa0dd6e,36078.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,Seattle,-122.26312545454545,47.544988181818184
+5G21A6P01L4,Cruise,2020.0,4306ea5c865ff73,39165.0,Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Mateo County,-122.16246076923076,37.45978923076923
+5G21A6P03L4,Cruise,2020.0,32757d7928fd658,42620.0,Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Rich Mixture,San Mateo County,-122.4932448275862,37.69016275862069
+3HSDZAPR9NN,International,2022.0,6b21a70177dcc64,56429.0,Consumer,Urban,Dry,25.0,Dark - Not Lighted,UNKNOWN,0,Rich Mixture,Chicago,-87.70408571428571,41.89771142857143
+5G21A6P05L4,Cruise,2020.0,4ede896caa0dd6e,36078.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.32053625,47.54485125
+5G21A6P02N4,Cruise,2022.0,e380a71d5a2e209,2561.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Mechanical Issues,Seattle,-122.267216,47.560352
+5G21A6P0XL4,Cruise,2020.0,80d271b9f0d3d5c,38937.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Software Bugs,Seattle,-122.34091375,47.70440125
+5G21A6P03L4,Cruise,2020.0,32757d7928fd658,42620.0,Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Software Bugs,Chicago,-87.66569294117647,42.01888588235294
+5G21A6P01L4,Cruise,2020.0,4306ea5c865ff73,39165.0,Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Lean Mixture,Seattle,-122.2769222222222,47.66151111111111
+5G21A6P05L4,Cruise,2020.0,a801d32780dfb7f,440273.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,1,Lean Mixture,Chicago,-87.641124375,41.8439396875
+5G21A6P05L4,Cruise,2020.0,a801d32780dfb7f,40273.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Fuel System Issues,Clark County,-115.15916157894736,36.01424210526316
+SADHW2S1XM1,Jaguar,2021.0,f5166bf634e8c45,11655.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Battery Issues,San Francisco,-122.4247728125,37.7970896875
+SADHW2S1XM1,Jaguar,2021.0,f5166bf634e8c45,11655.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Low Voltage,Seattle,-122.28700666666668,47.52654583333333
+SADHW2S17M1,Jaguar,2021.0,fcd7d30508e9fce,9310.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Rich Mixture,Asheville,-82.5212275,35.62603875
+5G21A6P07L4,Cruise,2020.0,d273b956f145a16,43082.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.43712454545454,37.797903636363635
+SADHW2S10M1,Jaguar,2021.0,fc507050d262298,20050.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Lean Mixture,San Mateo County,-122.231415,37.474311875
+5G21A6P07L4,Cruise,2020.0,d273b956f145a16,43082.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Electrical Faults,San Francisco,-122.490829375,37.744823125
+SADHW2S14M1,Jaguar,2021.0,8.06E+16,17179.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.16925785714284,35.97530785714286
+SADHW2S11M1,Jaguar,2021.0,5a468e179f46349,5356.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.31189818181817,37.54886363636364
+SADHW2S17M1,Jaguar,2021.0,0c7d2b6074c7190,18510.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.92066,36.619285
+SADHW2S17M1,Jaguar,2021.0,6cfe3de46d13cce,11506.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.24982466666668,36.104094
+SADHW2S17M1,Jaguar,2021.0,e99629229709aa3,18215.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Tire Wear,Clark County,-115.14525285714286,36.01371761904762
+3FA6P0MUXKR,Ford,2019.0,238ab9f4a902425,11510.0,In-Vehicle (Commercial / Test),Rural,Wet,30.0,Daylight,CLOUDY,0,Tire Wear,Clark County,-115.10040833333332,36.0875275
+5TDDCRFH3GS,Toyota,2016.0,97156a6f45ace72,57678.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.58062555555556,35.618655555555556
+KM8K23AG2KU,Hyundai,2019.0,3c0a1911f17aec1,54796.0,In-Vehicle (Commercial / Test),Urban,Wet,45.0,Daylight,CLOUDY,0,Battery Issues,Chicago,-87.65941222222222,41.83991611111111
+3FA6P0MUXKR,Ford,2019.0,238ab9f4a902425,11510.0,In-Vehicle (Commercial / Test),Highway,Wet,70.0,Daylight,CLOUDY,0,Lean Mixture,San Mateo County,-122.40981235294116,37.66239529411765
+1C4RJHET6N8,Jeep,2022.0,ab99e94b2b40e97,6958.0,Consumer,Mountainous,Dry,45.0,Dark - Unknown Lighting,CLEAR,0,Tire Wear,Asheville,-82.595005,35.63800125
+SADHW2S18M1,Jaguar,2021.0,2c7a9a00277e615,25713.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.150975,36.010058
+SADHW2S19M1,Jaguar,2021.0,d486f6b56e17cbc,10576.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Dark - Lighted,CLEAR,0,Lean Mixture,Chicago,-87.69977428571428,41.95648571428571
+5G21A6P06L4,Cruise,2020.0,cb78e142f7d9e1d,39342.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Rich Mixture,San Francisco,-122.39104714285712,37.759612142857144
+SADHW2S1XM1,Jaguar,2021.0,3f5f631b7210b62,25407.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Dark - Lighted,UNKNOWN,0,Brake Fault,Pacific Grove,-121.919984,36.617481999999995
+SADHW2S19M1,Jaguar,2021.0,720a2c8a04ccf0d,13088.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Brake Fault,Clark County,-115.27107384615384,36.11034
+5G21A6P06L4,Cruise,2020.0,cb78e142f7d9e1d,39342.0,Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Low Voltage,San Francisco,-122.441618,37.752242
+5G21A6P06N4,Cruise,2022.0,a3dbf2235f1daf1,10025.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,30.0,Daylight,CLOUDY,1,Mechanical Issues,San Francisco,-122.44251916666668,37.78696333333333
+5G21A6P06N4,Cruise,2022.0,a3dbf2235f1daf1,10025.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,30.0,Daylight,CLOUDY,1,Mechanical Issues,Seattle,-122.298711,47.569610999999995
+5TDDCRFH5GS,Toyota,2016.0,1ccf97db22289e8,72592.0,In-Vehicle (Commercial / Test),Rural,Dry,15.0,Daylight,CLEAR,0,Rich Mixture,San Mateo County,-122.32103680851064,37.57076446808511
+1FMCU0DZ5LU,Ford,2020.0,1a89dae466c3bdd,2562.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Software Bugs,Asheville,-82.50264666666668,35.55594333333334
+W1KCG2EB8NA,Mercedes-Benz,,23b85ceefeb0e4d,58.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Battery Issues,Santa Cruz County,-122.07711181818182,37.04088090909091
+1FMCU0DZ5LU,Ford,2020.0,1a89dae466c3bdd,2562.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Alternator Failure,Santa Cruz County,-121.81133066666666,36.853936
+SADHW2S18M1,Jaguar,2021.0,04f736aacb7513d,30534.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Dark - Lighted,CLEAR,0,Tire Wear,Clark County,-115.26407277777778,36.11315722222222
+SADHW2S17M1,Jaguar,2021.0,6928114ae21e747,21701.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.910455,36.620325
+SADHW2S10M1,Jaguar,2021.0,ed590c651fc2b4e,8771.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Sensor and Perception Failure,Asheville,-82.50642857142857,35.56039857142857
+SADHW2S19M1,Jaguar,2021.0,3e2c94c7b8660e0,16818.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Dark - Lighted,CLEAR,0,Low Voltage,San Mateo County,-122.50992333333336,37.59394333333333
+SADHW2S10M1,Jaguar,2021.0,fc507050d262298,17237.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Rich Mixture,Santa Cruz County,-121.89383785714286,36.96212428571429
+SADHW2S1XM1,Jaguar,2021.0,4c109ee6f767a49,9960.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Seattle,-122.36149636363638,47.52728181818182
+SADHW2S17M1,Jaguar,2021.0,e0571a62a1ccccb,13801.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.40891685714288,37.620794
+3FA6P0MU9KR,Ford,2019.0,f4ed5e3d6f6498b,13277.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Fuel System Issues,New York City,-73.77892676470589,40.67140529411765
+5RDDCRFH2GS,Toyota,2016.0,825a589bfc9c427,52306.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Low Voltage,Seattle,-122.265894,47.555822
+3FA6P0MU9KR,Ford,2019.0,f4ed5e3d6f6498b,13277.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLOUDY,0,Brake Fault,Asheville,-82.50008285714286,35.47057
+W1KCG2EB8NA,EQS,,23b85ceefeb0e4d,,Unknown,Mountainous,Unknown,25.0,Dark - Unknown Lighting,UNKNOWN,0,Software Bugs,Asheville,-82.51918666666667,35.639415
+1XPBD49X0ND,Peterbilt,2022.0,e900e303012f4e3,42556.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Transmission Faults,San Francisco,-122.3955096153846,37.7574376923077
+SADHW2S19M1,Jaguar,2021.0,6bc8160eed3f36f,8570.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dawn / Dusk,CLEAR,0,Rich Mixture,Asheville,-82.66116076923078,35.508863846153844
+SADHW2S13M1,Jaguar,2021.0,ee70d1945e4b3b0,1078.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Electrical Faults,Clark County,-115.15857058823528,36.14956117647059
+SADHW2S12M1,Jaguar,2021.0,415510c86f8a0cf,18214.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Transmission Faults,Asheville,-82.507984,35.588604
+SADHW2S19M1,Jaguar,2021.0,82ca7b5717c14e4,19453.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.22436541666669,36.043423749999995
+SADHW2S18M1,Jaguar,2021.0,3fa13431ff0349d,19509.0,In-Vehicle (Commercial / Test),Mountainous,Dry,35.0,Daylight,CLEAR,0,Transmission Faults,Santa Cruz County,-122.00737416666668,36.971334166666665
+5TDDCRFHXGS,Toyota,2016.0,39dfd67295f44eb,32899.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Suspension System Failures,Seattle,-122.29736857142858,47.697831428571426
+5G21A6P07L4,Cruise,2020.0,d273b956f145a16,39252.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Mechanical Issues,San Francisco,-122.47904125,37.764128125
+5G21A6P07L4,Cruise,2020.0,d273b956f145a16,39252.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Sensor and Perception Failure,Seattle,-122.3469488888889,47.52750333333333
+1XPBD49X0ND,Peterbilt,2022.0,e900e303012f4e3,42556.0,In-Vehicle (Commercial / Test),Highway,Dry,75.0,Daylight,CLEAR,0,Software Bugs,San Francisco,-122.38816214285714,37.731636428571434
+SADHW2S19M1,Jaguar,2021.0,6bc8160eed3f36f,8570.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Electrical Faults,Clark County,-115.15290588235294,36.03588647058823
+SADHW2S12M1,Jaguar,2021.0,6e7c9396161664d,12241.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Dark - Lighted,CLEAR,0,Lean Mixture,San Francisco,-122.39295461538462,37.77209846153846
+1FMCU0DZ5LU,Ford,2020.0,1a89dae466c3bdd,1278.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Cooling System Damage,New York City,-73.96001466666667,40.610454
+1FMCU0DZ5LU,Ford,2020.0,1a89dae466c3bdd,1278.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Low Voltage,New York City,-73.92880000000001,40.831655833333336
+5G21A6P04L4,Cruise,2020.0,7c5cce40a8c4c2d,44037.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,1,Fuel System Issues,San Mateo County,-122.18344558823529,37.48596132352941
+5G21A6P04L4,Cruise,2020.0,7c5cce40a8c4c2d,44037.0,In-Vehicle and Remote (Commercial / Test),Highway,Dry,55.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,Pacific Grove,-121.912675,36.6178
+SADHW2S1XM1,Jaguar,2021.0,f604b97275349cf,25141.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Sensor and Perception Failure,Chicago,-87.63390875,41.8772575
+SADHW2S12M1,Jaguar,2021.0,6e7c9396161664d,12241.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Fuel System Issues,Clark County,-114.06115067796613,36.82238271186441
+SADHW2S19M1,Jaguar,2021.0,86b92a23b213253,20556.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Tire Wear,Clark County,-115.26000785714288,36.14002142857143
+SADHW2S19M1,Jaguar,2021.0,86b92a23b213253,20556.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Dawn / Dusk,CLEAR,0,Lean Mixture,Chicago,-87.668178,41.882405
+SADHW2S1XM1,Jaguar,2021.0,f604b97275349cf,25141.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,Seattle,-122.39316571428571,47.53784714285714
+SADHW2S19M1,Jaguar,2021.0,86b92a23b213253,20556.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dawn / Dusk,CLEAR,0,Rich Mixture,San Mateo County,-122.195668,37.42868133333333
+SADHW2S11M1,Jaguar,2021.0,5b2fd709cf91a79,14451.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Electrical Faults,Clark County,-115.22155692307692,36.05219846153846
+SADHW2S14M1,Jaguar,2021.0,afa8e157cfb1282,6509.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Tire Wear,Clark County,-115.186083,36.040362
+5TDDCRFH6GS,Toyota,2016.0,c45eb5dab0befec,79832.0,In-Vehicle (Commercial / Test),Mountainous,Wet,25.0,Dark - Lighted,CLOUDY,0,Brake Fault,Santa Cruz County,-121.85804,36.928566
+SADHW2S14M1,Jaguar,2021.0,afa8e157cfb1282,6509.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Alternator Failure,Clark County,-115.17541384615384,36.14821307692308
+SADHW2S11M1,Jaguar,2021.0,5b2fd709cf91a79,14451.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Electrical Faults,Clark County,-115.1143781818182,36.089310909090905
+5G21A6P02L4,Cruise,2020.0,004849ab20ec14e,30712.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Alternator Failure,San Francisco,-122.41738818181815,37.77242727272728
+5G21A6P00L4,Cruise,2020.0,6b5824d035605b2,30000.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,1,Software Bugs,Asheville,-82.57501,35.469415
+5G21A6P06L4,Cruise,2020.0,a41dcc6c4454525,30905.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,1,Cooling System Damage,Santa Cruz County,-121.82163166666668,36.87235166666667
+5G21A6P08L4,Cruise,2020.0,54ce296ece6c13b,31843.0,In-Vehicle (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Low Voltage,San Francisco,-122.42873714285714,37.74919214285715
+5G21A6P00L4,Cruise,2020.0,6b5824d035605b2,30000.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Transmission Faults,San Francisco,-122.46248545454546,37.78395181818182
+5G21A6P06L4,Cruise,2020.0,a41dcc6c4454525,30905.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.445478,37.785647
+5G21A6P02L4,Cruise,2020.0,004849ab20ec14e,30712.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Sensor and Perception Failure,San Francisco,-122.46965235294115,37.76398235294118
+5G21A6P08L4,Cruise,2020.0,54ce296ece6c13b,31843.0,In-Vehicle and Remote (Commercial / Test),Urban,Wet,25.0,Dark - Lighted,RAINING,1,Low Voltage,San Francisco,-122.40347333333337,37.718511111111106
+SADHW2S18M1,Jaguar,2021.0,c076b8ec8eaf73f,17989.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.90293909090909,40.64582045454545
+SADHW2S18M1,Jaguar,2021.0,c076b8ec8eaf73f,17989.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,Clark County,-115.22385361666666,36.02238847416667
+SADHW2S18M1,Jaguar,2021.0,c076b8ec8eaf73f,17989.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Suspension System Failures,San Mateo County,-122.16897538461538,37.45309076923077
+SADHW2S16M1,Jaguar,2021.0,0f2b5c50f367aad,9742.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Dark - Lighted,CLEAR,0,Lean Mixture,San Mateo County,-122.4561575,37.64713583333333
+SADHW2S19M1,Jaguar,2021.0,4edb4192b29d35b,11749.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Low Voltage,San Mateo County,-122.46070727272728,37.49589727272728
+SADHW2S16M1,Jaguar,2021.0,c0bc3685a7d18ca,4737.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Seattle,-122.35412666666667,47.706783333333334
+2C4RC1K71HR,Chrysler,2017.0,6809bca2e95dc4f,20839.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.90797333333336,36.62058666666667
+KM8K23AG3MU,Hyundai,2021.0,68822f2575e302d,2550.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,40.0,Daylight,CLEAR,0,Tire Wear,New York City,-73.78939125,40.6865025
+2C4RC1K71HR,Chrysler,2017.0,6809bca2e95dc4f,20839.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Transmission Faults,Santa Cruz County,-121.81834,36.866988
+SADHW2S16M1,Jaguar,2021.0,c0bc3685a7d18ca,4737.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Seattle,-122.35985166666669,47.519823333333335
+SADHW2S19M1,Jaguar,2021.0,4edb4192b29d35b,11749.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.92691,36.632545
+SADHW2S16M1,Jaguar,2021.0,0f2b5c50f367aad,9742.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.909055,36.61745
+KM8K23AG3MU,Hyundai,2021.0,68822f2575e302d,,"Other, see Narrative",Mountainous,Unknown,25.0,Dark - Unknown Lighting,UNKNOWN,0,Cooling System Damage,Santa Cruz County,-121.981466,36.971965999999995
+SADHW2S10M1,Jaguar,2021.0,07333aef835ef03,17392.0,In-Vehicle (Commercial / Test),Urban,Unknown,25.0,Daylight,UNKNOWN,0,Transmission Faults,San Francisco,-122.5044657894737,37.76294631578948
+SADHW2S13M1,Jaguar,2021.0,f97408305266b85,13034.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Electrical Faults,Clark County,-115.03206,36.164259
+SADHW2S10M1,Jaguar,2021.0,07333aef835ef03,17392.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLOUDY,0,Rich Mixture,San Francisco,-122.39764333333332,37.785325
+5G21A6P02L4,Chevrolet,2020.0,b43e9bbd3c760e2,31487.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Transmission Faults,Santa Cruz County,-122.05285666666668,36.96314666666667
+SADHW2S13M1,Jaguar,2021.0,f97408305266b85,13034.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Dark - Lighted,CLEAR,0,Lean Mixture,Chicago,-87.721209,41.876437
+SADHW2S18M1,Jaguar,2021.0,3fa13431ff0349d,15812.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Tire Wear,San Mateo County,-122.220465,37.48364416666667
+SADHW2S16M1,Jaguar,2021.0,cf331f383ea5d94,23878.0,In-Vehicle (Commercial / Test),Mountainous,Dry,35.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.57558166666666,35.63811833333333
+SADHW2S10M1,Jaguar,2021.0,07333aef835ef03,17392.0,In-Vehicle (Commercial / Test),Urban,Unknown,25.0,Daylight,UNKNOWN,0,Mechanical Issues,San Francisco,-122.44551266666669,37.74776133333333
+SADHW2S16M1,Jaguar,2021.0,cf331f383ea5d94,23878.0,In-Vehicle (Commercial / Test),Rural,Dry,35.0,Dark - Lighted,CLEAR,0,Electrical Faults,Clark County,-115.107231,36.205155000000005
+SADHW2S18M1,Jaguar,2021.0,3fa13431ff0349d,15812.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Electrical Faults,Clark County,-115.18418916666668,35.995925
+SADHW2S18M1,Jaguar,2021.0,3fa13431ff0349d,15812.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,San Francisco,-122.42554714285714,37.73433
+SADHW2S13M1,Jaguar,2021.0,f97408305266b85,13034.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.91894777777776,36.62149444444445
+SADHW2S18M1,Jaguar,2021.0,8d2c8e1b95ad195,11661.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,UNKNOWN,0,Brake Fault,Pacific Grove,-121.90811,36.61812
+SADHW2S18M1,Jaguar,2021.0,8d2c8e1b95ad195,11661.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Fuel System Issues,Asheville,-82.60394733333332,35.61260266666667
+SADHW2S16M1,Jaguar,2021.0,cf331f383ea5d94,23878.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Dark - Lighted,CLEAR,0,Lean Mixture,Pacific Grove,-121.920775,36.62688
+5G21A6P02L4,Chevrolet,2020.0,6e2c6e07710c76b,32552.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.91249,36.619200000000006
+SADHW2S18M1,Jaguar,2021.0,8d2c8e1b95ad195,11661.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,UNKNOWN,0,Suspension System Failures,San Mateo County,-122.22295416666668,37.47421083333334
+SADHW2S17M1,Jaguar,2021.0,c7cd0871d60a651,10606.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Daylight,CLOUDY,0,Lean Mixture,San Francisco,-122.42127454545454,37.78726909090909
+SADHW2S17M1,Jaguar,2021.0,c7cd0871d60a651,10606.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Low Voltage,San Mateo County,-122.40178866666666,37.663727333333334
+SADHW2S11M1,Jaguar,2021.0,fe5fa579f66e981,9739.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Mechanical Issues,San Mateo County,-122.30705600000002,37.569061
+SADHW2S1XM1,Jaguar,2021.0,3f5f631b7210b62,13485.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.44693461538462,37.625484615384615
+SADHW2S19M1,Jaguar,2021.0,076a0682d278cf7,11323.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,New York City,-73.7666471875,40.760945625
+SADHW2S14M1,Jaguar,2021.0,4e6dc7156efb5a6,13541.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dawn / Dusk,CLEAR,0,Sensor and Perception Failure,San Francisco,-122.45483076923075,37.76489
+2C4RC1K73HR,Chrysler,2017.0,6d49baca1da8d0f,20619.0,,Urban,Dry,25.0,Daylight,CLEAR,0,Sensor and Perception Failure,New York City,-73.91801702702702,40.65590756756757
+SADHW2S19M1,Jaguar,2021.0,076a0682d278cf7,11323.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.28641928571427,36.12036714285714
+5TDDCRFH5GS,Toyota,2016.0,8cb71719e87c23f,47537.0,In-Vehicle (Commercial / Test),Mountainous,Unknown,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-122.01423400000002,36.982621
+SADHW2S11M1,Jaguar,2021.0,fe5fa579f66e981,9739.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Software Bugs,San Mateo County,-122.40065909090907,37.59372636363637
+SADHW2S1XM1,Jaguar,2021.0,3f5f631b7210b62,13485.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.160945,36.226597
+SADHW2S14M1,Jaguar,2021.0,4e6dc7156efb5a6,13541.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dawn / Dusk,CLEAR,0,Low Voltage,Seattle,-122.28811714285716,47.68557428571428
+5G21A6P03L4,Chevrolet,2020.0,a4af7fc813effcd,29675.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Low Voltage,San Francisco,-122.410746,37.780696
+1FMCU0DZ5LU,Ford,2020.0,a5b2a19801a72a3,21459.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Suspension System Failures,San Mateo County,-122.177717,37.463801
+VJRD1A10224,EZ10,2018.0,4e9cb8fb52e18e3,2841.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.57768571428572,41.728995
+VJRD1A10224,EZ10,2018.0,55e7d3bb07f1df3,1894.0,In-Vehicle (Commercial / Test),Urban,Dry,10.0,Daylight,CLEAR,0,Fuel System Issues,Chicago,-87.70165142857142,41.93995857142857
+1N4AZ1CP3KC,Nissan,2019.0,efc5d61366657a2,9645.0,In-Vehicle (Commercial / Test),Highway,Dry,55.0,Daylight,CLEAR,0,Lean Mixture,Pacific Grove,-121.93154333333332,36.628643333333336
+1FMCU0DZ5LU,Ford,2020.0,a5b2a19801a72a3,21459.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLOUDY,0,Tire Wear,Clark County,-115.11465555555554,36.13562666666667
+KM8K23AG0MU,Hyundai,2021.0,39f3358183a2dbc,2550.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,40.0,Daylight,CLEAR,0,Transmission Faults,Asheville,-82.47013777777778,35.59161111111111
+VJRD1A10224,EZ10,2018.0,55e7d3bb07f1df3,1894.0,In-Vehicle (Commercial / Test),Urban,Dry,15.0,Daylight,CLEAR,0,Brake Fault,Chicago,-87.70054555555556,41.84929
+VJRD1A10224,EZ10,2018.0,4e9cb8fb52e18e3,2841.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-121.86997571428572,36.95309571428571
+SADHW2S17M1,Jaguar,2021.0,c7cd0871d60a651,10606.0,In-Vehicle (Commercial / Test),Highway,Dry,60.0,Daylight,CLOUDY,0,Tire Wear,Clark County,-115.0883847826087,36.06487043478261
+2C4RC1K70HR,Chrysler,2017.0,142fc9bec7dfe3e,18698.0,,Rural,Dry,45.0,Daylight,CLEAR,0,Sensor and Perception Failure,San Mateo County,-122.43624454545456,37.66919818181818
+2C4RC1K70HR,Chrysler,2017.0,142fc9bec7dfe3e,18698.0,,Highway,Dry,55.0,Daylight,CLEAR,0,Lean Mixture,Clark County,-115.0820376923077,36.05557153846154
+SADHWDS16M1,Jaguar,2021.0,6e2a7f46ce25f9a,8379.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-122.0562757142857,37.050422857142856
+2C4RC1K70HR,Chrysler,2017.0,142fc9bec7dfe3e,1702.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Transmission Faults,Asheville,-82.48248333333333,35.62363833333333
+SADHW2S13M1,Jaguar,2021.0,69f9ac55561d6ff,11571.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Brake Fault,Clark County,-115.18763357142858,36.15557142857143
+SADHW2S18M1,Jaguar,2021.0,d5bf40bdf0b1c10,2684.0,In-Vehicle (Commercial / Test),Highway,Dry,70.0,Daylight,CLEAR,0,Lean Mixture,Chicago,-87.58687181818182,41.76136818181818
+SADHW2S10M1,Jaguar,2021.0,93f83a6c71b9de2,2055.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Not Lighted,CLEAR,0,Software Bugs,Seattle,-122.3900522222222,47.546297777777774
+2C4RC1K78HR,Chrysler,2017.0,885ecf217c72a7b,120658.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Rich Mixture,Chicago,-87.68599857142858,41.95371857142857
+2C4RC1K70HR,Chrysler,2017.0,142fc9bec7dfe3e,17012.0,,Mountainous,Dry,30.0,Dark - Lighted,CLEAR,0,Software Bugs,Santa Cruz County,-121.854,36.921242
+SADHW2S16M1,Jaguar,2021.0,127631507705ca2,8379.0,In-Vehicle (Commercial / Test),Urban,Dry,15.0,Daylight,CLEAR,0,Sensor and Perception Failure,San Francisco,-122.42855363636365,37.78582727272727
+SADHW2S13M1,Jaguar,2021.0,69f9ac55561d6ff,11571.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Fuel System Issues,Clark County,-115.1124775,36.04022416666667
+SADHW2S18M1,Jaguar,2021.0,d5bf40bdf0b1c10,2684.0,In-Vehicle (Commercial / Test),Highway,Dry,50.0,Daylight,CLEAR,0,Fuel System Issues,Chicago,-87.70336304347826,41.8780047826087
+SADHW2S10M1,Jaguar,2021.0,93f83a6c71b9de2,2055.0,In-Vehicle and Remote (Commercial / Test),Urban,Dry,25.0,Dark - Not Lighted,CLEAR,0,Mechanical Issues,San Francisco,-122.441464,37.759518
+2T2BGMCA5HC,Lexus,2017.0,259ff2c24c048a1,17962.0,In-Vehicle (Commercial / Test),Rural,Dry,45.0,Daylight,CLOUDY,0,Brake Fault,Pacific Grove,-121.91887,36.62012
+5TDDCRFH9GS,Toyota,2016.0,92c53b3ee15a475,38832.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.30776666666668,37.55473083333333
+SADHW2S13M1,Jaguar,2021.0,db1aad21cae0c5d,10779.0,In-Vehicle (Commercial / Test),Rural,Dry,15.0,Daylight,CLEAR,0,Brake Fault,Pacific Grove,-121.91898,36.622905
+SADHW2S13M1,Jaguar,2021.0,db1aad21cae0c5d,10779.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Electrical Faults,Clark County,-115.249406,36.090997
+SADHW2S13M1,Jaguar,2021.0,db1aad21cae0c5d,10779.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Low Voltage,San Mateo County,-122.2995809090909,37.56629727272727
+SADHW2S1XM1,Jaguar,2021.0,80e3ad40ec485bc,5582.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Electrical Faults,Asheville,-82.52833,35.651655
+SADHW2S10M1,Jaguar,2021.0,f6ce80fd458f116,2466.0,In-Vehicle (Commercial / Test),Highway,Snow / Slush / Ice,50.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.28321857142858,47.712155714285714
+SADHW2S13M1,Jaguar,2021.0,016d002b046c9c8,2500.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLOUDY,0,Low Voltage,Seattle,-122.268815,47.66165625
+SADHW2S12M1,Jaguar,2021.0,68397cbf53d7d3b,,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Transmission Faults,Asheville,-82.59818428571428,35.62781
+SADHW2S14M1,Jaguar,2021.0,09f6e9bd642f040,5471.0,"Other, see Narrative",Highway,Dry,50.0,Daylight,CLEAR,0,Lean Mixture,San Francisco,-122.44441545454546,37.803371818181816
+,NAVYA,2016.0, ,,Consumer,Urban,Dry,30.0,Daylight,CLEAR,0,Electrical Faults,New York City,-73.82754714285714,40.69435
+1L9L0CAL6JA,Local Motors,2019.0,89f8993ae749784,0.0,In-Vehicle (Commercial / Test),Mountainous,Dry,15.0,Daylight,CLEAR,0,Brake Fault,Santa Cruz County,-121.97177200000002,36.971402
+SADHW2S1XM1,Jaguar,2021.0,80e3ad40ec485bc,5582.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Fuel System Issues,Clark County,-115.18396757281552,35.95887524271845
+SADHW2S13M1,Jaguar,2021.0,016d002b046c9c8,2500.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLOUDY,0,Suspension System Failures,San Francisco,-122.45623833333332,37.71735
+SADHW2S10M1,Jaguar,2021.0,f6ce80fd458f116,2466.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLEAR,0,Electrical Faults,New York City,-73.85872684210527,40.83711947368421
+5G21A6P02L4,Chevrolet,2020.0,dc64b32fa4888fb,24248.0,In-Vehicle and Remote (Commercial / Test),Rural,Dry,25.0,Daylight,CLEAR,0,Mechanical Issues,San Mateo County,-122.40184285714284,37.611283571428565
+1L9L0CAL6JA,OLLI,2019.0,89f8993ae749784,,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Transmission Faults,Asheville,-82.57292571428572,35.49093285714286
+3FA6P0MU4KR,Ford,2019.0,6d525d9e8ed29e1,9783.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Sensor and Perception Failure,New York City,-74.005778125,40.63484875
+,Local Motors,2019.0, ,1821.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Cooling System Damage,Asheville,-82.62932571428571,35.632015
+5TDDCRFH8GS,Toyota,2019.0,cd789207da93b65,50694.0,In-Vehicle (Commercial / Test),Rural,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Pacific Grove,-121.90609,36.61691
+2T2JGMDA3LC,Lexus,2020.0,0eecc7fa6ddc4ad,4586.0,In-Vehicle (Commercial / Test),Urban,Dry,15.0,Daylight,CLEAR,0,Electrical Faults,Chicago,-87.66692,41.832367272727275
+2C4RC1K78HR,Chrysler,2017.0,885ecf217c72a7b,120958.0,In-Vehicle (Commercial / Test),Mountainous,Dry,40.0,Daylight,CLEAR,0,Transmission Faults,Asheville,-82.47653666666666,35.62206
+3FA6P0MU8KR,Ford,2019.0,ac9a026c8544e16,10389.0,In-Vehicle (Commercial / Test),Mountainous,Dry,30.0,Daylight,CLEAR,0,Brake Fault,Asheville,-82.496262,35.590084000000004
+3FA6P0MU8KR,Ford,2019.0,ac9a026c8544e16,10389.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Low Voltage,Chicago,-87.70615333333333,41.854372222222224
+SADHW2S12M1,Jaguar,2021.0,68397cbf53d7d3b,8500.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Cooling System Damage,Seattle,-122.290625,47.5323575
+2T2JGMDA0LC,Lexus,2020.0,cb6e38b363be262,9211.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Software Bugs,New York City,-73.8911425,40.66109041666667
+2T2JGMDA3LC,Lexus,2020.0,0eecc7fa6ddc4ad,4586.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLEAR,0,Transmission Faults,Asheville,-82.52503166666666,35.43097
+5G21A6P07L4,Chevrolet,2020.0,0756666678e7ccc,31090.0,In-Vehicle and Remote (Commercial / Test),Mountainous,Dry,25.0,Dark - Lighted,CLEAR,0,Brake Fault,Asheville,-82.63964285714285,35.57570857142857
+2C4RC1K78HR,Chrysler,2017.0,885ecf217c72a7b,120958.0,In-Vehicle (Commercial / Test),Urban,Dry,45.0,Daylight,CLEAR,0,Suspension System Failures,Chicago,-87.56921571428572,41.74768571428571
+SADHW2S12M1,Jaguar,2021.0,68397cbf53d7d3b,8500.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Rich Mixture,San Francisco,-122.456469375,37.775583125
+2T2JGMDA3LC,Lexus,2020.0,0eecc7fa6ddc4ad,3854.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Alternator Failure,Chicago,-87.66120714285714,41.79520428571429
+5TDDCRFH7GS,Toyota,2016.0,68d677c40b0c371,47018.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Rich Mixture,New York City,-73.90754555555556,40.843606666666666
+5TDDCRFH3GS,Toyota,2016.0,1db0801a222a5aa,58804.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Rich Mixture,Chicago,-87.68192777777777,42.01556111111111
+5G21A6P05L4,Chevrolet,2020.0,0e07360d9d38851,29293.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Dark - Lighted,CLEAR,0,Low Voltage,San Francisco,-122.4427177777778,37.71203111111111
+5TDDCRFH4GS,Toyota,2016.0,a473192087e29b3,77332.0,In-Vehicle (Commercial / Test),Urban,Dry,35.0,Daylight,CLEAR,0,Alternator Failure,New York City,-73.86670535714286,40.75067035714285
+SADHW2S14M1,Jaguar,2021.0,fcbda73e579f03e,1232.0,"Other, see Narrative",Urban,Dry,25.0,Daylight,CLEAR,0,Software Bugs,San Francisco,-122.39771,37.73636777777778
+,Chrysler,2017.0, ,34996.0,In-Vehicle (Commercial / Test),Mountainous,Dry,25.0,Daylight,CLOUDY,0,Brake Fault,Asheville,-82.54060500000001,35.579438333333336
+3FA6P0MU4KR,Ford,2019.0,e021a860c193fa3,11497.0,In-Vehicle (Commercial / Test),Urban,Dry,30.0,Daylight,CLEAR,0,Transmission Faults,Chicago,-87.70155555555556,41.996542222222224
+3FA6P0MU7KR,Ford,2019.0,85841ac8ed73351,16752.0,In-Vehicle (Commercial / Test),Rural,Dry,30.0,Daylight,CLEAR,0,Rich Mixture,San Mateo County,-122.41126833333334,37.6546325
+2T2JGMDA3LC,Lexus,2020.0,0eecc7fa6ddc4ad,3854.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Low Voltage,New York City,-73.92780333333333,40.65540111111111
+3LN6L5LU1HR,Lincoln,2017.0,1e795dcf422a758,13679.0,In-Vehicle (Commercial / Test),Urban,Dry,35.0,Daylight,CLEAR,0,Battery Issues,Chicago,-87.54581375,41.74392875
+3FA6P0MU3KR,Ford,2019.0,2ad07e63259f51d,10722.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,0,Fuel System Issues,Chicago,-87.56420285714286,41.760268571428576
+SADHW2S14M1,Jaguar,2021.0,09f6e9bd642f040,5471.0,"Other, see Narrative",Highway,Dry,60.0,Daylight,CLEAR,0,Lean Mixture,Seattle,-122.3874,47.57374428571429
+5G21A6P01L4,Cruise,2020.0,c25b8fa9390e19b,31980.0,In-Vehicle (Commercial / Test),Urban,Dry,25.0,Daylight,CLEAR,1,Brake Fault,Seattle,-122.33461142857142,47.72454571428572
+SADHW2S14M1,Jaguar,2021.0,fcbda73e579f03e,1232.0,"Other, see Narrative",Urban,Dry,25.0,Daylight,CLEAR,0,Sensor and Perception Failure,San Francisco,-122.43151818181818,37.74759909090909
+2C4RC1K76HR,Chrysler,2017.0,27a8308e4525a57,34996.0,In-Vehicle (Commercial / Test),Highway,Dry,65.0,Daylight,CLOUDY,0,Lean Mixture,San Mateo County,-122.338303,37.578718
